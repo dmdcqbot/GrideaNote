@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://categoryurls.life</id>
+    <title>清望深山冬</title>
+    <updated>2023-09-21T11:30:42.313Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://categoryurls.life"/>
+    <link rel="self" href="https://categoryurls.life/atom.xml"/>
+    <subtitle>冬山有饮，为接汝尘</subtitle>
+    <logo>https://categoryurls.life/images/avatar.png</logo>
+    <icon>https://categoryurls.life/favicon.ico</icon>
+    <rights>All rights reserved 2023, 清望深山冬</rights>
+    <entry>
+        <title type="html"><![CDATA[你好，世界]]></title>
+        <id>https://categoryurls.life/ni-hao-shi-jie/</id>
+        <link href="https://categoryurls.life/ni-hao-shi-jie/">
+        </link>
+        <updated>2023-09-20T04:15:41.000Z</updated>
+        <content type="html"><![CDATA[<p>你好，世界，美丽的宇宙，<br>
+万物交响，在你的庇护下。<br>
+从山巅到海底，从星辰到花朵，<br>
+每个微小生命的奇迹。</p>
+<p>你好，世界，自然的诗篇，<br>
+你的故事，从古至今流传。<br>
+在风中，在雨里，在阳光下，<br>
+生命之歌，永不落幕。</p>
+<p>你好，世界，我们的家园，<br>
+我们的梦想，在你的怀抱中。<br>
+无论痛苦，无论欢笑，无论希望，<br>
+你都是我们永恒的港湾。</p>
+<p>你好，世界，无比的壮丽，<br>
+你的奥秘，如诗如画如梦。<br>
+在无尽的星河，在万物的和谐中，<br>
+我们共同唱响生命的歌。</p>
+<p>你好，世界，你是我们的诗，<br>
+你的爱，让万物生生不息。<br>
+在你的每一片叶，每一滴水，<br>
+每一个微笑中，我们找到你。</p>
+<p>你好，世界，我们爱你如初，<br>
+愿和平与爱，永远不凋不败。<br>
+在每一个新的日出，新的日落，<br>
+我们向世界说：你好。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何让你爱上开源？这六款写给你的安卓机]]></title>
+        <id>https://categoryurls.life/OpenSourceSoftware/</id>
+        <link href="https://categoryurls.life/OpenSourceSoftware/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="你手机的用途是什么">你手机的用途是什么？</h1>
+<h2 id="我们日常有一些比如听音乐看小说看视频科学上网啥的但这些都有盗版甚至是破解的软件">我们日常有一些比如听音乐，看小说，看视频，科学上网啥的但这些都有盗版甚至是破解的软件。</h2>
+<h2 id="这好吗可能没有问题但我更爱开源软件">这好吗？可能没有问题，但我更爱开源软件。</h2>
+<p>首先可以去Bing一下开源的定义，GNU自由软件运动啥的。这样自己查询的结果一定是印象深刻的。</p>
+<pre><code>Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
+</code></pre>
+<p>但是这个扯的太远了，甚至门槛很高，局限大了。当我们个人使用一些免费无广告的软件不是更加方便和自由吗？你为开源软件所做的事情其实就是为全人类的软件发展做出了重要一环。</p>
+<p>我推荐你一些开源软件替换掉你手机上的破解软件，你看行不行好吧。</p>
+<h3 id="阅读类">阅读类</h3>
+<p>1.<a href="https://gedoor.github.io/">开源阅读</a><br>
+<img src="https://categoryurls.life/post-images/1695289686576.png" alt="开源阅读" loading="lazy"></p>
+<p>使用方法是添加书源能够全网搜，这个书源全不全看你能否找全所有资源的决定性因素。当你成长到全部书源都能够添加并且自制的时候你已经超过许多人了。</p>
+<p>官网给出了相关链接可以直接复制过来用，这个免费且强大。</p>
+<p><a href="https://gedoor.github.io/blog/book-source-2022-9-2213">点击这里</a></p>
+<p>每个月都会给每个读者一个相关书源。</p>
+<figure data-type="image" tabindex="1"><img src="https://categoryurls.life/post-images/1695290007228.png" alt="九月书源" loading="lazy"></figure>
+<p>怎么使用不用我教，玩法超级多，官方文档也有。</p>
+<h3 id="音乐类">音乐类</h3>
+<p>2.<a href="http://listen1.github.io/listen1/">Listen1</a><br>
+<img src="https://categoryurls.life/post-images/1695290214753.png" alt="Listen 1官网截图" loading="lazy"></p>
+<p>这个听歌不错，支持网页听歌。</p>
+<p>3.<a href="https://github.com/lyswhut/lx-music-mobile/releases">洛雪音乐助手</a><br>
+<img src="https://categoryurls.life/post-images/1695290506271.png" alt="" loading="lazy"></p>
+<p>支持下载，大可以尝试一下。</p>
+<p>4.<a href="https://music.miknio.com/#/">高颜值的第三方网易云音乐</a><br>
+<img src="https://categoryurls.life/post-images/1695290842339.png" alt="" loading="lazy"></p>
+<p>很美观很简洁，还可以自己部署。不用服务器也行也就是说可以DIY。下一期爱上开源栏目为你倾情奉献。</p>
+<h3 id="视频类">视频类</h3>
+<p>5.如果你知道Fdroid——<a href="https://f-droid.org/zh_Hans/packages/org.schabi.newpipelegacy/">Newpipe</a></p>
+<figure data-type="image" tabindex="2"><img src="https://categoryurls.life/post-images/1695291213146.png" alt="NewPipe" loading="lazy"></figure>
+<p>这个你能科学上网就能体验全部功能，但我不会教你。</p>
+<p>6.<a href="https://f-droid.org/zh_Hans/packages/com.github.libretube/">LibreTube</a></p>
+<p>放个截图，这个是利用中继站对你镜像访问。很不错，看你能不能找到最适合你的服务器。</p>
+<figure data-type="image" tabindex="3"><img src="https://categoryurls.life/post-images/1695291337552.png" alt="" loading="lazy"></figure>
+<p>当我们生活中充满广告这些开源软件不仅仅是一股清流，更是撬开大公司无脑狂灌的抵抗。如果你能为开源做出贡献，我也一样感谢你。最好的希望。</p>
+]]></content>
+    </entry>
+</feed>
